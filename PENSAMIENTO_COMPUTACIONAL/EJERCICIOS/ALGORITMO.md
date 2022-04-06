@@ -19,9 +19,7 @@ Tender cama:
 4.  z=dia
 
 Ingresar en las siguientes variables los datos de la fecha actual
-a=año actual
-b=mes actual
-c=dia actual
+a=año actual, b=mes actual, c=dia actual.
 
 Calcular la edad actual
 (a-x) años, (b-y) meses, (c-z) días.
