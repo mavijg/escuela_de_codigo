@@ -49,23 +49,18 @@ relacionales.
 Suponiendo un mes de 31 días
 31 asistencias=Bono puntualidad
 2 retardos = 1 día suspendido
-Si retardos>=3 entonces baja al final de mes
-**MEJOR SOLUCIÓN:**
-RETARDOS < 2 = BONO
-RETARDOS == 2 = MENOS UN DIA
-RETARDOS >= 3 = BAJA
+Si retardos>=3 entonces baja al final de mes  
+**MEJOR SOLUCIÓN:**  
+RETARDOS < 2 = BONO  
+RETARDOS == 2 = MENOS UN DIA  
+RETARDOS >= 3 = BAJA  
 
 ### Reto. 
 Analiza el problema y selecciona la opción que consideres que lo
 resuelve:
 “C” es mayor que “D”. “E” es menor que “F”. “G” es menor que “E” y “D” es
-mayor que “F”. ¿Cuál es el menor de todos?
-**SOLUCIÓN:**
-C>D
-E<F
-G<E
-D>F
-C>D>F>E>G
+mayor que “F”. ¿Cuál es el menor de todos?  
+**SOLUCIÓN:** C>D, E<F, G<E, D>F, C>D>F>E>G  
 **Menor de todos; G**
 
 ### OPERADORES LOGICOS
