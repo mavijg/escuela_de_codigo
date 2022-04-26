@@ -24,3 +24,10 @@ Hallar Aumento al Sueldo de un empleado; si el sueldo es mayor a $500.000 su aum
 ### Solución:  
 ![image](https://user-images.githubusercontent.com/102996796/165367382-74cdd152-3e50-4e33-a067-8d8468a00ff1.png)  
 
+## Ejercicio 5  
+Solicite al usuario que ingrese un caracter. Mientras no sea "1", el programa seguira en ejecución.  
+### Solución  
+![image](https://user-images.githubusercontent.com/102996796/165370496-35bd6bc4-2111-4dfb-8efe-3c2bf0fab9fe.png)  
+
+
+
