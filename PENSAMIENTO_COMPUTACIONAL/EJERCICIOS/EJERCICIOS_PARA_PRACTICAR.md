@@ -17,7 +17,10 @@ Escribe un programa que permita al usuario ingresar 6 números enteros, que pued
 ## Ejercicio 3.  
 Escribe un programa que permita al usuario ingresar los montos de las compras de un cliente (se desconoce la cantidad de datos que cargará, la cual puede cambiar en cada ejecución), cortando el ingreso de datos cuando el usuario ingrese el monto 0. Si ingresa un monto negativo, no se debe procesar y se debe pedir que ingrese un nuevo monto.  
 ### Solución:  
+![image](https://user-images.githubusercontent.com/102996796/165366842-800a9b57-8915-4327-a1d4-3ed9f7a47495.png)  
 
 ## Ejercicio 4.  
 Hallar Aumento al Sueldo de un empleado; si el sueldo es mayor a $500.000 su aumento será del 12%, pero si su sueldo es menor El aumento será del 15%.  
 ### Solución:  
+![image](https://user-images.githubusercontent.com/102996796/165367382-74cdd152-3e50-4e33-a067-8d8468a00ff1.png)  
+
